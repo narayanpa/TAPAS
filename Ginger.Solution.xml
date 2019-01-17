@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Ginger Repository Item created with version: 2.4.0.0-->
+<Ginger.Environments.Solution Account="Sprint" AlmType="QC" Created="5/5/2016 09:28:22 AM" CreatedBy="SUBODHSI" Guid="bf3c5524-c15d-4464-873a-bec2d8cc7670" LastBusinessFlowFileName="C:\Sprint_Ginger_Automation\Ginger-Sprint-OGS3\\BusinessFlows\Login_Flow\Test_Jenkins.Ginger.BusinessFlow.xml" LastUpdate="6/19/2017 11:11:33 AM" LastUpdateBy="JJAMADAR" Name="Ginger-Sprint-OGS" ParentGuid="00000000-0000-0000-0000-000000000000" Version="24">
+<ApplicationPlatforms>
+<GingerCore.Platforms.ApplicationPlatform AppName="Google" CoreGUID="00000000-0000-0000-0000-000000000000" Created="5/5/2016 09:29:03 AM" CreatedBy="SUBODHSI" Guid="58e9e681-d532-4c59-a030-6f2f1db44164" GUID="00000000-0000-0000-0000-000000000000" LastUpdate="1/1/0001 12:00:00 AM" ParentGuid="00000000-0000-0000-0000-000000000000" Platform="Web" Version="0" />
+<GingerCore.Platforms.ApplicationPlatform AppName="CRM" Core="Amdocs CRM" CoreGUID="00000000-0000-0000-0000-000000000000" CoreVersion="9" Created="5/25/2016 02:34:15 PM" CreatedBy="jjamadar" Description="Amdocs Client Relatationship Manager" Guid="52149fdd-4b92-4360-a893-7da451800fcd" GUID="00000000-0000-0000-0000-000000000000" LastUpdate="1/1/0001 12:00:00 AM" ParentGuid="00000000-0000-0000-0000-000000000000" Platform="ASCF" Version="0" />
+<GingerCore.Platforms.ApplicationPlatform AppName="Windows" CoreGUID="00000000-0000-0000-0000-000000000000" Created="6/10/2016 07:25:31 AM" CreatedBy="manishav" Description="New application" Guid="87865b7b-390d-4317-8ec3-5590c5c55253" GUID="00000000-0000-0000-0000-000000000000" LastUpdate="1/1/0001 12:00:00 AM" ParentGuid="00000000-0000-0000-0000-000000000000" Platform="Windows" Version="0" />
+<GingerCore.Platforms.ApplicationPlatform AppName="WebServices" CoreGUID="00000000-0000-0000-0000-000000000000" Created="6/10/2016 07:35:39 AM" CreatedBy="manishav" Description="New application" Guid="4e50ff82-08d8-4bc1-9779-5c8094c39cf3" GUID="00000000-0000-0000-0000-000000000000" LastUpdate="1/1/0001 12:00:00 AM" ParentGuid="00000000-0000-0000-0000-000000000000" Platform="WebServices" Version="0" />
+<GingerCore.Platforms.ApplicationPlatform AppName="CSM" CoreGUID="00000000-0000-0000-0000-000000000000" Created="8/2/2016 07:54:07 AM" CreatedBy="manishav" Description="Amdocs CSM" Guid="f659b2a4-ff58-49c3-8eb1-70166a5092ab" GUID="00000000-0000-0000-0000-000000000000" LastUpdate="1/1/0001 12:00:00 AM" ParentGuid="00000000-0000-0000-0000-000000000000" Platform="PowerBuilder" Version="0" />
+<GingerCore.Platforms.ApplicationPlatform AppName="MyJavaApp" CoreGUID="00000000-0000-0000-0000-000000000000" Created="10/20/2016 01:17:24 PM" CreatedBy="JJAMADAR" Description="Java Application" Guid="0c25bf1b-e3ca-4c2d-a40a-917e683d212b" GUID="00000000-0000-0000-0000-000000000000" LastUpdate="1/1/0001 12:00:00 AM" ParentGuid="00000000-0000-0000-0000-000000000000" Platform="Java" Version="0" />
+<GingerCore.Platforms.ApplicationPlatform AppName="WM" CoreGUID="00000000-0000-0000-0000-000000000000" Created="10/27/2016 10:01:01 AM" CreatedBy="JJAMADAR" Description="Web Application" Guid="7e297328-7ce5-40ba-8049-22e1bac2af63" GUID="00000000-0000-0000-0000-000000000000" LastUpdate="1/1/0001 12:00:00 AM" ParentGuid="00000000-0000-0000-0000-000000000000" Platform="Web" Version="0" />
+</ApplicationPlatforms>
+
+<ExecutionLoggerConfigurationSetList>
+<Ginger.Reports.ExecutionLoggerConfiguration Created="4/18/2017 07:56:58 AM" CreatedBy="jjamadar" ExecutionLoggerConfigurationExecResultsFolder="~\ExecutionResults\" ExecutionLoggerConfigurationIsEnabled="True" ExecutionLoggerConfigurationMaximalFolderSize="50" Guid="fb448579-b9c3-4a0f-af52-76c74439b3ad" IsSelected="True" LastUpdate="1/1/0001 12:00:00 AM" ParentGuid="00000000-0000-0000-0000-000000000000" Seq="0" Version="0" />
+</ExecutionLoggerConfigurationSetList>
+
+<ExternalItemsFields>
+</ExternalItemsFields>
+
+<HTMLReportsConfigurationSetList>
+<Ginger.Reports.HTMLReportsConfiguration Created="4/18/2017 07:56:58 AM" CreatedBy="jjamadar" Guid="a4b10d64-6629-4f90-8451-c6e9f9fdf359" HTMLReportsAutomaticProdIsEnabled="False" HTMLReportsFolder="~\HTMLReports\" HTMLReportTemplatesSeq="2" IsSelected="True" LastUpdate="1/1/0001 12:00:00 AM" ParentGuid="00000000-0000-0000-0000-000000000000" Seq="0" Version="0" />
+</HTMLReportsConfigurationSetList>
+
+<Tags>
+</Tags>
+
+<Variables>
+<GingerCore.Variables.VariableString Created="12/26/2016 07:18:36 AM" CreatedBy="JJAMADAR" CycleCount="0" Description="Variable String" DiffrentFromOrigin="False" Guid="88822a0c-e8a3-4a75-9462-f03f0285d6b8" InitialStringValue="641936009" LastUpdate="1/1/0001 12:00:00 AM" Name="gblBAN" ParentGuid="00000000-0000-0000-0000-000000000000" SetAsInputValue="True" Value="641936009" Version="0" />
+<GingerCore.Variables.VariableString Created="1/2/2017 05:43:26 AM" CreatedBy="JJAMADAR" CycleCount="0" Description="Variable String" DiffrentFromOrigin="False" Guid="0d73953a-2559-42ae-9638-02e44381c28d" LastUpdate="1/1/0001 12:00:00 AM" Name="gblPTN" ParentGuid="00000000-0000-0000-0000-000000000000" SetAsInputValue="True" Version="0" />
+</Variables>
+</Ginger.Environments.Solution>
